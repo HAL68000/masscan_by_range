@@ -1,0 +1,42 @@
+5.100.192.0 5.100.223.255 "BeST" CJSC
+37.17.0.0 37.17.127.255 Velcom UE
+37.44.64.0 37.44.127.255 Republican Unitary Telecommunication Enterprise Beltelecom
+37.45.0.0 37.45.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+37.212.0.0 37.215.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+46.53.128.0 46.53.255.255 Velcom UE
+46.56.0.0 46.56.127.255 Mobile TeleSystems JLLC
+46.56.128.0 46.56.255.255 Velcom UE
+46.191.0.0 46.191.127.255 "BeST" CJSC
+46.216.0.0 46.216.255.255 Mobile TeleSystems JLLC
+77.67.128.0 77.67.191.255 "BeST" CJSC
+77.67.192.0 77.67.255.255 "BeST" CJSC
+80.94.160.0 80.94.175.255 State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)
+80.94.224.0 80.94.239.255 IP TelCom
+80.249.80.0 80.249.95.255 Business Network Ltd
+81.30.80.0 81.30.95.255 "BeST" CJSC
+82.209.192.0 82.209.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+84.201.224.0 84.201.239.255  
+86.57.128.0 86.57.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+87.252.224.0 87.252.255.255 Mobile Service Ltd.
+91.149.128.0 91.149.191.255 Mobile Service Ltd.
+93.84.0.0 93.85.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+93.125.0.0 93.125.127.255 Mobile Service Ltd.
+109.126.128.0 109.126.191.255 "BeST" CJSC
+128.65.0.0 128.65.63.255 Velcom UE
+128.140.240.0 128.140.255.255 Velcom UE
+134.17.0.0 134.17.255.255 Mobile TeleSystems JLLC
+164.177.192.0 164.177.255.255 "BeST" CJSC
+176.60.0.0 176.60.255.255 Mobile TeleSystems JLLC
+178.120.0.0 178.127.255.255 Republican Unitary Telecommunication Enterprise Beltelecom
+178.154.0.0 178.154.127.255 "BeST" CJSC
+178.163.128.0 178.163.255.255 Velcom UE
+178.168.128.0 178.168.255.255 Mobile TeleSystems JLLC
+178.172.128.0 178.172.255.255 Mobile Service Ltd.
+194.158.192.0 194.158.223.255 Republican Unitary Telecommunication Enterprise Beltelecom
+195.50.0.0 195.50.31.255 Institution Central Information and Analytical Center at the Ministry of Education of Belarus
+195.222.64.0 195.222.95.255 Velcom UE
+212.98.160.0 212.98.191.255 Business Network Ltd
+213.184.224.0 213.184.255.255 Mobile Service Ltd.
+217.21.32.0 217.21.47.255 Mobile Service Ltd.
+217.21.48.0 217.21.63.255 Mobile Service Ltd.
+217.23.112.0 217.23.127.255 JSC GLOBALONEBEL
